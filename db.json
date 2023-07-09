@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "Henryd25",
+      "id": 1
+    }
+  ],
+  "todos": [
+    {
+      "text": "hola",
+      "user": "Henryd25",
+      "cheked": false,
+      "id": 1
+    }
+  ]
+}
